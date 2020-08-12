@@ -10,7 +10,7 @@ My hypothetical new startup is a an extra-terrestrial themed bakery named “Mar
  sighting data to begin our product market fit validation to new locations.
 
 
-##Steps needed for the ETL Process: 
+## Steps needed for the ETL Process: 
 1.	Create and S3 Bucket and Redshift Warehouse in the same region 
 2.	Add Files to S3 Bucket 
 a.	Using Boto 3 documented code found below 
@@ -23,14 +23,14 @@ b.	Using Docker
 6.	Finalize the process and being loading data in the set interval needed. 
 
 
-##ERD of Data 
+## ERD of Data 
 ![ERD](ERD.png)
 
 
 
-##Data Flow in Airflow
+## Data Flow in Airflow
 ![Data Flow in Airflow](DataFlow.png)
 
 
-##Succesfull Dag Runs
+## Succesfull Dag Runs
 ![dag_runs](/Dag_Runs.png)
