@@ -17,7 +17,7 @@ https://www.kaggle.com/yelp-dataset/yelp-dataset
 * UFO Data: 
 https://www.kaggle.com/camnugent/ufo-sightings-around-the-world
 
-* S3 to Boto: 
+* Boto to S3: 
 https://gist.github.com/msharp/eaa1c5b1b4e50f1372c19bbe5ef52f9e
 https://dev.to/razcodes/how-to-copy-files-to-s3-using-boto3-41fp
 
@@ -25,6 +25,20 @@ https://dev.to/razcodes/how-to-copy-files-to-s3-using-boto3-41fp
 https://github.com/puckel/docker-airflow
 
 
+## Files Includes:
+
+* Data Exploration Jupyter Notebook
+* Docker Compose File for Airlfow
+* Airflow Dags, Plugins, Opeartors 
+* Boto to S3 File
+
+
+
+## Steps To Recreate Process:
+1. Run Docker Compose File
+2. Add Airflow Dags, Plugins, Opeartors Files
+3. Add Data Files to S3 (From Above Source After Cleaning) (Using Boto to S3 or Manually) 
+4. Run Dags Hours/Daily etc. d
 
 
 ## Steps needed for the ETL Process: 
