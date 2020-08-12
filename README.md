@@ -8,6 +8,23 @@ My hypothetical new startup is a an extra-terrestrial themed bakery named “Mar
 *	As the technical cofounder and sole data engineer I want to build a warehouse of restaurants/bakeries that do well and enrich it with data that is similar theme of our current bakery. 
 *	We have collected some starter data from Yelp’s publicly accessible data and some UFO
  sighting data to begin our product market fit validation to new locations.
+ 
+## Resources: 
+
+* Yelp Data: 
+https://www.kaggle.com/yelp-dataset/yelp-dataset
+
+* UFO Data: 
+https://www.kaggle.com/camnugent/ufo-sightings-around-the-world
+
+* S3 to Boto: 
+https://gist.github.com/msharp/eaa1c5b1b4e50f1372c19bbe5ef52f9e
+https://dev.to/razcodes/how-to-copy-files-to-s3-using-boto3-41fp
+
+* Docker File: 
+https://github.com/puckel/docker-airflow
+
+
 
 
 ## Steps needed for the ETL Process: 
