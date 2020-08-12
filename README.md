@@ -1,4 +1,4 @@
-# data_engineering_capstone
+# Data Engineering Capstone: Udacity
 Capstone for Udacity Data Engineering Program
 
 
